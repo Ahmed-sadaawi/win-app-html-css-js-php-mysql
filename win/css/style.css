@@ -1,0 +1,15 @@
+body {
+  background-color: #27a6aa;
+}
+.count-down {
+  padding: 7px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #7f138d;
+}
+/* #cards {
+  display: none;
+} */
+/* .cards-list {
+  display: flex;
+} */
